@@ -1,0 +1,1 @@
+export default function AboutPage(){return <main><div className="card"><h1>О нас</h1><p>Мы изучаем Next.js.</p><p>Это статическая страница.</p></div></main>}

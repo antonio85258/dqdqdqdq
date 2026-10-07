@@ -1,0 +1,1 @@
+export default async function ServerDemo(){const time=new Date().toISOString();console.log("Сообщение Server Component: выполняется на сервере");return <main><div className="card"><h1>Server Component</h1><p>Время на сервере: {time}</p><p>Проверьте терминал: console.log выполняется на сервере.</p></div></main>}

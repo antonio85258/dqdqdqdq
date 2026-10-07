@@ -1,0 +1,1 @@
+export default function Home(){return <main><h1>Практическая работа №1.3</h1><p>Server и Client Components в Next.js</p><div className="card"><h2>Готовый проект</h2><p>В проекте реализованы все основные задания: Server Component, Client Component, Server Function, статический и динамический маршруты.</p></div></main>}
